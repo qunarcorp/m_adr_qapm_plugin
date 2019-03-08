@@ -1,0 +1,56 @@
+﻿# kdiff3 ignore
+*.orig
+
+# maven ignore
+target/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# package ignore (optional)
+# *.jar
+# *.war
+# *.zip
+# *.tar
+# *.tar.gz
+
+.gradle
+/local.properties
+.idea/workspace.xml
+.idea/copyright
+.idea/libraries
+.idea/inspectionProfiles
+.idea/scopes
+.idea/androidDexCompiler.xml
+.idea/runConfigurations.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/dictionaries
+.idea/uiDesigner.xml
+.DS_Store
+build
+out
+
+local.properties
+
+#local repo
+repo
